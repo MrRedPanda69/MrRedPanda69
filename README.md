@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MrRedPanda69
 - 👀 I’m interested in backend development
-- 🌱 I’m currently learning JavaScript, and soon node.js, PHP with Laravel and SQL
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning JavaScript, and soon node.js.
 - 📫 How to reach me at jorgeloredohdz@gmail.com
 
 <!---
