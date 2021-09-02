@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrRedPanda69
 - 👀 I’m interested in backend development
-- 🌱 I’m currently learning Ja little bit of Front End technologies such as Angular and Bootstrap, so I can focus on .NET and NodeJS for Back End Development
+- 🌱 I’m currently learning a little bit of Front End technologies such as Angular and Bootstrap, so I can focus on .NET and NodeJS for Back End Development
 - 📫 How to reach me at jorgeloredohdz@gmail.com
 
 <!---
